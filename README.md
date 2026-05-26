@@ -6,9 +6,9 @@ sempre gostei de mexer na internet e hoje trabalho para melhorar meus conhecimen
 Gosto muito de assistir e jogar futebol e torço para o Galo.
 
 Estou aprendendo:
-  Lógica de programação
-  Fundamentos UI / UX
-  Inovação Social e Científica e Empreendedorismo
-  Segurança da Informação e Proteção de Dados
-  Arquitetura de Hardware e Software
-  Versionamento e Colaboração
+  Lógica de programação; 
+  Fundamentos UI / UX; 
+  Inovação Social e Científica e Empreendedorismo; 
+  Segurança da Informação e Proteção de Dados; 
+  Arquitetura de Hardware e Software; 
+  Versionamento e Colaboração.
